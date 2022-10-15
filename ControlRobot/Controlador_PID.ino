@@ -10,6 +10,7 @@ volatile int posi = 0;
 float eprev = 0;
 float eintegral = 0;
 
+
 void setup() {
   Serial.begin(9600);
   pinMode(ENCA,INPUT);
