@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Circle
 from Cinematica import Cinematica_Directa
 
+
 #Parametros geometricos
 L1, L2=1,1 
 def make_plot(i,X,Y):
